@@ -6,7 +6,7 @@ This is an interactive dashboard built in Power BI to provide real-time insights
 
 Here is a demo of the dashboard's interactivity, conditional formatting, and drill-through features.
 
-![Live Dashboard Demo](assets/Recording2025-07-28230604-ezgif.com-video-to-gif-converter.gif.)
+![Live Dashboard Demo](assets/Recording2025-07-28230604-ezgif.com-video-to-gif-converter.gif)
 
 ---
 
