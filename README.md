@@ -24,10 +24,10 @@ Here is a demo of the dashboard's interactivity, conditional formatting, and dri
 ![Custom Tooltip](assets/tooltip.png)
 
 #### Summary Page (Full View)
-![Summary](assets/summary.png)
+![Summary](assets/summary.jpg)
 
 ####  DAX Date Slicer
-![DAX Measure](assets/datesliceer.png)
+![DAX Measure](assets/datesliceer.jpg)
 
 
 ---
